@@ -1,0 +1,5 @@
+{
+  "name": "PlanMeAway AI",
+  "description": "Intelligent travel planner that integrates with your calendar to recommend personalized trips, generate email summaries, and learn from your feedback.",
+  "requestFramePermissions": []
+}
